@@ -1,0 +1,69 @@
+*{
+    font-family: 'sans-serif';
+    font-style: normal;
+}
+
+h1{
+    text-align: center;
+}
+
+.descripcion{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 80%
+}
+
+.educacion{
+    display: flex;
+    justify-content: center;
+}
+
+.educacion img{
+    height: auto;
+    width: 80%;
+}
+
+.estudios {
+    width: 30%;
+    height: 100%;
+    padding: 40px;
+}
+
+.experiencias{
+    display: flex;
+    justify-content: center;
+}
+
+.skills-container{
+    display: flex;
+    justify-content: center;
+}
+
+.profile{
+    display: block;
+    margin: auto;
+    height: auto;
+    width: 25%;
+}
+
+.imagenes{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 70%;
+    margin: auto;
+}
+
+.imagenes img{
+    width: 40%;
+    height: auto;
+    padding: 2px;
+}
+
+.hobbies {
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
